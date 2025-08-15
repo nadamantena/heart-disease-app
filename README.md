@@ -34,7 +34,7 @@ To use the app, download `heart.csv` from Kaggle and place it in the project's `
 
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/heart-disease-ml-app.git
+    git clone https://github.com/nadamantena/heart-disease-app.git
     cd heart-disease-ml-app
     ```
 
