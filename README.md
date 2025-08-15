@@ -65,3 +65,22 @@ heart-disease-ml-app/
 │ └── heart.csv (you place the dataset here)
 ├── templates/
 └── static/
+
+## Citation
+
+If you use this project or the dataset, please cite the original data source:
+
+**Dataset:** [Heart Disease Dataset on Kaggle](https://www.kaggle.com/datasets/arezaei81/heartcsv)
+
+Dataset author: arezaei81, License: Public Domain (check Kaggle for latest license details).
+
+## Contact
+
+For questions, suggestions, or support, feel free to open an issue on this repository or contact me directly:
+
+- **GitHub:** [https://github.com/nadamantena](https://github.com/nadamantena)
+- **Email:** nadamantena@gmail.com
+
+I welcome feedback and contributions!
+
+
