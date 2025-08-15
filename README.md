@@ -57,13 +57,20 @@ To use the app, download `heart.csv` from Kaggle and place it in the project's `
 ## Project Structure (Simplified)
 
 heart-disease-ml-app/
+
 │
 ├── app.py
+
 ├── requirements.txt
+
 ├── Procfile
+
 ├── data/
+
 │ └── heart.csv (you place the dataset here)
+
 ├── templates/
+
 └── static/
 
 ## Citation
